@@ -1,0 +1,136 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    background-image: url(../IMG_20210704_140913_282.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    display: flex; 
+}
+#div1 {
+    padding-left: 20%;
+}
+#div1 h1 {
+    color: white;
+    padding-top:27px;
+    font-family: 'Pacifico', cursive;
+    font-size:35px;
+}
+#div2 {
+    padding-top: 50px;
+    padding-left: 35%;
+}
+#div2 ul li {
+    display: inline-block;
+    padding-right: 5px;
+    border-right: 1px solid white; 
+}
+#div2 ul li a{
+    text-decoration: none;
+    color: white;
+}
+#div3 {
+    padding-left: 10%;
+    color: green
+}
+#div3 ul li {
+    display:inline-block;
+    margin:10px 0px 10px 0px;
+    padding:10px;
+    font-weight: bold;
+}
+#div4{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+#div4 img{
+    width: 30%;
+    height:450px;
+}
+#header{
+    background-image: url(../IMG_20210704_140913_282.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div5{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#div5 img {
+    width: 41%;
+    height:250px;
+    padding: 40px 0px ;
+    margin: auto;
+}
+#div6 p{
+    color: white;
+    padding: 50px 0px 20px 8%;
+    font-family:'Pacifico', cursive ;
+    font-size: 20px;
+    font-weight: bold;
+}
+#div7{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#div7 p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+#div7 img{
+    width: 250px;
+    height: 250px;
+    border: 5px solid white;
+}
+#div8 p{
+    color: white;
+    padding: 50px 0px 20px 8%;
+    font-family:'Pacifico', cursive ;
+    font-size: 20px;
+    font-weight: bold;
+}
+#div9{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 20px;
+}
+#div9 p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+#div9 img{
+    width: 250px;
+    height: 250px;
+    border: 5px solid white;
+}
+#div10{
+    padding-top: 20px;
+}
+#div11{
+    padding: 20px;
+    text-align: center;
+}
+#div11 ul li {
+    display: inline-block;
+    padding-right: 30px;
+}
+#div11 ul li a{
+    text-decoration: none;
+    color: rgb(231, 4, 193);
+    font-family: 'Pacifico', cursive;
+    font-size:25px;
+}
